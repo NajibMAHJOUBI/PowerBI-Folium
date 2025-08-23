@@ -1,6 +1,6 @@
 # Power BI - Folium
 
-Créer une carte avec la librairie Python Folium et comment l'insérer dans un rpport Power BI Desktop (en préversion).
+Créer une carte avec la librairie Python Folium et comment l'insérer dans un rapport Power BI Desktop (en préversion).
 
 Les éléments de ce repo servent à accompagner un article Linkedin sur l'insertion de cartes Folium dans Power BI Desktop.
 
